@@ -1,0 +1,1 @@
+# Aqui estão as respostas em Python para a avaliação 01 de lógica
